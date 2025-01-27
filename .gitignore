@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -78,6 +79,7 @@ pids
 
 # dotenv environment variable files
 .env*.local
+!.env.example
 
 # Local development files
 *.local
@@ -137,6 +139,7 @@ node_modules/
 npm-debug.log
 dist/
 *.env
+!.env.example
 
 # Database
 *.sqlite
