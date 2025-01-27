@@ -140,4 +140,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for their powerful language models
 - Replicate for their diverse AI model marketplace
-- The open-source community for various tools and libraries used in this project 
+- The open-source community for various tools and libraries used in this project
+
+## Other Images
+![image](https://github.com/user-attachments/assets/7e901b35-4b57-4e4c-9632-7225c732c115)
+
